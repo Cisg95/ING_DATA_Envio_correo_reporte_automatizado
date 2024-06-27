@@ -1,0 +1,5 @@
+pandas
+pandas-gbq
+xlrd
+sendgrid
+openpyxl
